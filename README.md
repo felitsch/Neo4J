@@ -1,7 +1,6 @@
 
 ## 🍺 The Beer project  🍺 
-
-As it was shown in classes, graph databases are a natural way of navegating distinct types of data. For this first project we will be taking a graph database to analyse beer and breweries!   
+  
 
 _For reference the dataset used for this project has been extracted from [kaggle](https://www.kaggle.com/ehallmar/beers-breweries-and-beer-reviews), released by Evan Hallmark. Even though the author does not present metada on the origin of the data it is probably a collection of open data from places like [beeradvocate](https://www.beeradvocate.com/)_.
 
@@ -35,14 +34,10 @@ Explore the database via python neo4j connector and/or the graphical tool in the
 
 Questions 8 to 10 are somewhat open, which means we'll also be evaluating the reasoning behind your answer. So there aren't necessarily bad results there are only wrong criteria, explanations or execution. 
  
-### Groups  
-
-Groups should have 2 people.
-You should register your group on **moodle**.
 
 ### Submission      
 
-The code used to produce the results and respective explations should be uploaded to moodle. They should have a clear reference to the group, either on the file name or on the document itself. Preferably one Jupyter notebook per group.
+The code used to produce the results and respective explations should be uploaded to moodle. They should have a clear reference to the group, either on the file name or on the document itself. Preferably one Jupyter notebook per student.
 
 Delivery date: Until the **midnight of March 13**
 
